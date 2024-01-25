@@ -14,8 +14,8 @@ We will create corresponding issues in the respective code repositories based on
 
 > Feel free to choose what you want to participate in: 
 > - Frontend repo :  <a href="https://github.com/Faucet-ATM/Faucet-FrontEnd/issues">Frontend</a>
-> - Backend repo : <a href="">Backend</a>
-> -  UI : <a href="">UI</a>
+> - Backend repo : <a href="https://github.com/Faucet-ATM/Faucet-server/issues">Backend</a>
+> -  UI : <a href="https://github.com/Faucet-ATM/UI-design/issues">UI</a>
 
 ## Reward
 

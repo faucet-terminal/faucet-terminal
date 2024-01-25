@@ -14,8 +14,8 @@
 
 > 随意选择您想参与的内容：
 > - 前端仓库：<a href="https://github.com/Faucet-ATM/Faucet-FrontEnd/issues">前端</a>
-> - 服务端仓库：<a href="">服务端</a>
-> - UI ：<a href="">UI</a>
+> - 服务器仓库：<a href="https://github.com/Faucet-ATM/Faucet-server/issues">服务器</a>
+> - UI ：<a href="https://github.com/Faucet-ATM/UI-design/issues">UI</a>
 
 ## 奖励
 
