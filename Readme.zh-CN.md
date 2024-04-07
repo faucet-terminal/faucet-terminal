@@ -8,6 +8,7 @@
 [贡献](#contributing) -
 [合作伙伴关系](#partenshippar) - 
 [English](./Readme.md)
+[如何进行贡献](./how_to_contribute.zh-CN.md)
 </div>
 
 ## 项目介绍

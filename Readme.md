@@ -8,6 +8,7 @@
 [Contribution](#contributing) -
 [Partnership](#partenshippar) - 
 [简体中文版](Readme.zh-CN.md)
+[How to contribute](./how_to_contribute.md)
 </div>
 
 ## What is it？
