@@ -7,7 +7,7 @@
 [为什么要构建这个项目](#why-you-want-to-build-this) -
 [贡献](#contributing) -
 [合作伙伴关系](#partenshippar) - 
-[English](./Readme.md)
+[English](./Readme.md) - 
 [如何进行贡献](./how_to_contribute.zh-CN.md)
 </div>
 
