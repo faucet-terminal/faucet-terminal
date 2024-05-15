@@ -26,7 +26,7 @@
 <a href="https://github.com/Faucet-ATM/Fuel_Faucet">Fuel水龙头</a>
 <a href="https://github.com/Faucet-ATM/Near_Faucet">Near水龙头</a>
 <a href="https://github.com/Faucet-ATM/Sui_Faucet">Sui水龙头</a>
-> - UI ：<a href="https://github.com/Faucet-ATM/UI-design/issues">UI</a>
+> - UI ：<a href="https://www.figma.com/design/SkvFf5FgtvrS5i0zf7x4iw/Faucet-ATM-2024-v.0">UI</a>
 
 ## 奖励
 
