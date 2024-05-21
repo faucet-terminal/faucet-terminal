@@ -11,6 +11,8 @@
 [How to contribute](./how_to_contribute.md)
 </div>
 
+![alt text](image.png)
+
 ## What is it？
 Hello everyone, welcome to Faucet-ATM! We are an open-source, community-driven test token faucet project. We aim to collaborate with the community to establish a one-stop service for obtaining test tokens together.
 ## Why we want to build this？
