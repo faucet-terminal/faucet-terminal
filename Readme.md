@@ -16,7 +16,22 @@ Faucet-ATM Test Address: [https://faucet-front-end.vercel.app](https://faucet-fr
 
 Faucet-ATM Github: [https://github.com/Faucet-ATM](https://github.com/Faucet-ATM)
 
-Faucet-ATM Core Contributors:
+## Supported Chains
+
+1. Fuel
+2. Aptos
+3. Sui (Coming Soon)
+4. Mantle (Coming Soon)
+5. Bitcoin (Coming Soon)
+6. Solana (Coming Soon)
+7. ETH (Coming Soon)
+8. Near (Coming Soon)
+9. Aurora (Coming Soon)
+10. Chainlink (Coming Soon)
+
+
+
+## Faucet-ATM Core Contributors
 
 ![alt text](image-1.png)
 ![alt text](image-2.png)

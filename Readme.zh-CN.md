@@ -22,7 +22,24 @@ Faucet-ATM 测试地址：https://faucet-front-end.vercel.app  <br/>
 
 Faucet-ATM Github： https://github.com/Faucet-ATM <br/>
 
-Facuet-ATM Core Contributors: 
+## 已支持的链
+
+1. Fuel 
+2. Aptos 
+3. Sui (马上支持)
+4. Mantle (马上支持)
+5. Bitcoin (马上支持)
+6. Solana (马上支持)
+7. Sui (马上支持)
+8. ETH (马上支持)
+9. Near (马上支持)
+10. Aurora (马上支持)
+11. Chainlink (马上支持)
+
+
+
+
+## Facuet-ATM 核心贡献者
 
 ![alt text](image-1.png)
 ![alt text](image-2.png)
