@@ -2,7 +2,7 @@
 
 # Faucet-ATM
 
-[Project Introduction](#what-is-it) - [Why You Want to Build This](#why-you-want-to-build-this) - [Contributing](#contributing) - [Partnership](#partnership) - [English](./Readme.md) - [How to Contribute](./how_to_contribute.zh-CN.md)
+[Project Introduction](#what-is-it) - [Why You Want to Build This](#why-you-want-to-build-this) - [Contributing](#contributing) - [Partnership](#partnership) - [简体中文](./Readme.zh-CN.md) - [How to Contribute](./how_to_contribute.zh-CN.md)
 
 </div>
 
